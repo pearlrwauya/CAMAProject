@@ -5,4 +5,4 @@ This is a [website](http://dirichi.github.io/CAMAProject/camaweb/) hosted on git
 Domain of the website is [camaafrica.net] (camaafrica.net) but it's also viewable at [dirichi.github.io/CAMAProject] (http://dirichi.github.io/CAMAProject) 
 
 ##More project ideas?
-Other projects may include the creation of a mini-social network for the members of the College Admissions Mentors for Africa (CAMA) network 
+Other projects may include the creation of a mini-social network for the members of the College Admissions Mentors for Africa (CAMA) network. This of course will be hosted on a  more powerful cloud service like heroku or google app engine
